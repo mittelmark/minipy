@@ -53,4 +53,6 @@ The documentation should be readable like this:
 
 ```
 pydoc3 minipy
+# and for the add function
+pydoc3 minipy.add
 ```
