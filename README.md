@@ -11,7 +11,7 @@ The repository contains the following essential files:
 * `LICENSE` - the license file, here a MIT license
 * `minipy/add.py` - the example add function with docstring documentation embedded
 * `minipy/__main__.py` - the file containing an example application runnable with `python -m minipy`
-* `minipy/__init__.py - the initialization coce - this file makes the module a package
+* `minipy/__init__.py` - the initialization code - this file makes the module a package
 
 ## Cloning
 
