@@ -13,6 +13,16 @@ The repository contains the following essential files:
 * `minipy/__main__.py` - the file containing an example application runnable with `python -m minipy`
 * `minipy/__init__.py` - the initialization code - this file makes the module a package
 
+## Template
+
+You can use this package for github to create a new package with the same structure like this:
+
+- goto the minipy Github page [https://github.com/mittelmark/minipy](https://github.com/mittelmark/minipy)
+- on the top you see a green button "Use this template"
+- click there an use the template
+
+If you are not on Github you can use either cloning or you use the zip file, see below.
+
 ## Cloning
 
 To create new projects you can just fetch the package to your file system using your download manager pointing to:
