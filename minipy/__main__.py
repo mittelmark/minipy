@@ -20,6 +20,6 @@ def run():
 
 if __name__ == "__main__":
     if "-h" in sys.argv or "--help" in sys.argv:
-        print("Usage: python3 -m minipy")
+        print("Usage: python3 -m minipy\nVersion:\t"+minipy.__version__+"\nAuthor:\t"+minipy.__author__)
     else:
         run()
